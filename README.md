@@ -1,3 +1,25 @@
-This program doesn't run with Python3
+###The easiest possible way to find a number's square root  
 
-To install it, type on the terminal "pip install EasySqrt" and when installation is completed type "EasySqrt" in the terminal to run the program.
+#### :heavy_exclamation_mark: This program only works with Python 2
+
+#### Published at pypi: [EasySqrt](https://pypi.python.org/pypi?%3Aaction=pkg_edit&name=EasySqrt)
+
+
+## Installation
+---
+
+### With pip
+
+    # Install package from pypi
+    $ pip install EasySqrt
+    
+    # Run it
+    $ EasySqrt
+    
+    # Done!!
+    
+
+
+### install_requires
+Python2  
+---
