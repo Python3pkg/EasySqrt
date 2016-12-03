@@ -2,7 +2,7 @@
 
 #### :heavy_exclamation_mark: This program only works with Python 2
 
-#### Published at pypi: [EasySqrt](https://pypi.python.org/pypi?%3Aaction=pkg_edit&name=EasySqrt)
+#### Published at pypi: [EasySqrt](https://pypi.python.org/pypi/EasySqrt)
 
 
 ## Installation
