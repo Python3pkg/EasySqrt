@@ -16,7 +16,7 @@
     # Run it
     $ EasySqrt
     
-    # Done!!
+    # You are now ready to use it!
     
 
 
