@@ -1,6 +1,6 @@
 ###The easiest possible way to find a number's square root  
 
-#### :heavy_exclamation_mark: This program only works with Python 2
+#### :heavy_exclamation_mark: This program will not work with Python3, it only works with Python 2
 
 #### Published at pypi: [EasySqrt](https://pypi.python.org/pypi/EasySqrt)
 
